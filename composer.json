@@ -1,0 +1,12 @@
+{
+    "name": "christophedlr/archive_quake",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Christophedlr\\FileFormats\\Quake\\": "src"
+        }
+    },
+    "require": {
+        "php": ">=7.3"
+    }
+}
